@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codewithsukhdev.netlify.app/sitemap.xml
